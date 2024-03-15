@@ -2,3 +2,6 @@
 Prueba de repositorio para el proyecto de omicas
 Integrantes: Eduardo Basantes, Lissy Romero y Joselyn Tulcanaz.
 Grupo 7
+
+Lissy Edu y Jos
+Grupo_7
